@@ -22,7 +22,7 @@ Sistema desenvolvido como trabalho final da disciplina **Desenvolvimento de Apli
 3. Acesse: http://localhost/by-fat
 
 ## Paper completo (PDF)
-[Baixar o trabalho acadêmico completo aqui](./paper.pdf) ← clica com o botão direito → "Salvar link como" se não abrir direto
+[Baixar o trabalho acadêmico completo aqui](./Paper_ByFat_Rodrigo_Andrade.pdf) ← clica com o botão direito → "Salvar link como" se não abrir direto
 
 ## Autor
 Rodrigo de Andrade Silva  
