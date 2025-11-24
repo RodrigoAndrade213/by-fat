@@ -21,8 +21,8 @@ Sistema desenvolvido como trabalho final da disciplina **Desenvolvimento de Apli
 2. Importe o arquivo `by_fat.sql` no phpMyAdmin
 3. Acesse: http://localhost/by-fat
 
-## Paper completo
-[Baixar PDF do trabalho acadêmico](./paper.pdf)
+## Paper completo (PDF)
+[Baixar o trabalho acadêmico completo aqui](./paper.pdf) ← clica com o botão direito → "Salvar link como" se não abrir direto
 
 ## Autor
 Rodrigo de Andrade Silva  
